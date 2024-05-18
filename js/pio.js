@@ -152,7 +152,7 @@ var Paul_Pio = function (prop) {
 
             // 关于我
             elements.info.onclick = function () {
-                window.open("http://120.26.250.201:8010/post/WKImP8YoKJQVvDe");
+                window.open("http://localhost:3005/post/WKImP8YoKJQVvDe");
             };
             elements.info.onmouseover = function () {
                 modules.render("想了解更多关于网站规章制度吗？");
